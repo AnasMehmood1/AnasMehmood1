@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anas Mehmood</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h1 align="center">Hy 👋, I'm Anas Mehmood</h1>
+<h3 align="center">A passionate Frontend developer from 🇵🇰</h3>
 
 
 <p align="center">
