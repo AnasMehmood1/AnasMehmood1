@@ -35,21 +35,21 @@
 <details>
   <summary>⚡ Github Stats</summary>
   <br>
- <img  src="https://github-readme-stats.vercel.app/api?username=anasmehmood1&show_icons=true&locale=en" alt="anasmehmood1" theme=dark&hide_border=false />
+  <img src="https://github-readme-stats.vercel.app/api?username=anasmehmood1&show_icons=true&locale=en&theme=dark&hide_border=false" alt="anasmehmood1" />
 </details>
 
 <details>
   <summary>🔥 GitHub Streak Stats</summary>
   <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anasmehmood1&" alt="anasmehmood1" theme=dark&hide_border=false />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnasMehmood1&theme=dark" alt="GitHub Streak" /></a>
 </details>
 
 <details>
-  <summary>🌐 Most used languages</summary>
+  <summary>🌐 Most Used Languages</summary>
   <br>
-  
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anasmehmood1&show_icons=true&locale=en&layout=compact" alt="anasmehmood1" theme=dark&hide_border=false />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasmehmood1&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="anasmehmood1" />
 </details>
+
 
 <br>
 
