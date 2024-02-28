@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at **portfolio**
 
 - 💬 Ask me about **React**
-- 
+   
 - ⚡ Fun fact **I think I am funny**
 
 <div id="badges" align="left">
