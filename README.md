@@ -1,15 +1,11 @@
 <h1 align="left">💫 About Me:</h1>
 
+- 🌱 I’m currently learning **MERN**
 
-
-- 🌱 I’m currently learning **Backend (MERN)**
-
-- 👨‍💻 All of my projects are available at [https://anasmehmood.netlify.app/](https://anasmehmood.netlify.app/)
+- 👨‍💻 All of my projects are available at **portfolio**
 
 - 💬 Ask me about **React**
-
-- 📫 How to reach me **anasmehmoodvip@gmail.com**
-
+- 
 - ⚡ Fun fact **I think I am funny**
 
 <div id="badges" align="left">
@@ -17,7 +13,7 @@
 		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
 	<a href="https://anasmehmood.netlify.app/">
-		<img src="https://img.shields.io/badge/portfolio-89C5D2?style=for-the-badge&logoColor=white" alt="Abdullah Sajjad Portfolio"/>
+		<img src="https://img.shields.io/badge/portfolio-89C5D2?style=for-the-badge&logoColor=white" alt="portfolio "/>
 	</a>
   <a href="mailto:anasmehmoodvip@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-A9D8B3?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
@@ -26,7 +22,7 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/anas_mehmood11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anas_mehmood11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anasmehmood1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anasmehmood1" height="30" width="40" /></a>
 </p>
